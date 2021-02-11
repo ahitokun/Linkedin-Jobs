@@ -1,9 +1,7 @@
-# Linkedin EasyApply Bot
+# Linkedin EasyApply Bot UPDATED
 Automate the application process on LinkedIn
 
-Medium Write-up: https://medium.com/xplor8/how-to-apply-for-1-000-jobs-while-you-are-sleeping-da27edc3b703
-Video: https://www.youtube.com/watch?v=4R4E304fEAs
-
+Video: 
 ## Setup 
 
 The run the bot install requirements

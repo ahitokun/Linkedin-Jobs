@@ -33,7 +33,7 @@ uploads:
 output_filename:
 - # PATH TO OUTPUT FILE (default output.csv)
 
-blacklist:
+33blacklist:
 - # Company names you want to ignore
 ```
 
@@ -47,8 +47,15 @@ list in the config file.
 
 ## Execute
 
+You can execute by running the ipynb file in the Jupyter ntoebook
 You can also execute the bot by running the following in your terminal
+
+## Notes
+
+The bot will run by default for 10 hours and will sleep to make sure everything loads, have also  added random to make us look human.
+
 ```
+## Notes
 python3 easyapplybot.py
 ```
 

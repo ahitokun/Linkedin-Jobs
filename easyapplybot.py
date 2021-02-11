@@ -1,3 +1,8 @@
+#Run this first
+
+pip install -r requirements.txt
+
+#Make the changes in config
 import time, random, os, csv, platform
 import logging
 from selenium import webdriver

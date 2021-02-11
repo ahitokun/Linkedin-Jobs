@@ -1,5 +1,5 @@
-# Linkedin EasyApply Bot UPDATED
-Automate the application process on LinkedIn
+# Linkedin EasyApply Bot -UPDATED 2021
+Automate the application process on LinkedIn(Easy Apply)
 
 Video: 
 ## Setup 
@@ -36,6 +36,7 @@ output_filename:
 blacklist:
 - # Company names you want to ignore
 ```
+
 __NOTE: AFTER EDITING SAVE FILE, DO NOT COMMIT FILE__
 
 ### Uploads
@@ -46,7 +47,7 @@ list in the config file.
 
 ## Execute
 
-To execute the bot run the following in your terminal
+You can also execute the bot by running the following in your terminal
 ```
 python3 easyapplybot.py
 ```
